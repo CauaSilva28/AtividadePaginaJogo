@@ -1,8 +1,8 @@
 # AtividadePaginaJogo
 Descrição detalhada das etapas realizadas no código:
 
-Primeiro selecionei as imagens no google, e ao salvar nomeei de 0 a 9 com .jpg
-Fiz a estrutura básica do HTML e dentro do body coloquei um <h1> com o nome do jogo, a imagem com uma id chamada "imagem" e a função onclick (Evento de clique) com o nome trocar(), por fim, um parágrafo com a descrição do jogo. No final do body chamei o javascript.
+Primeiro selecionei as imagens no google, e ao salvar nomeei de 0 a 9 com .jpg.
+Fiz a estrutura básica do HTML e dentro do body coloquei um h1 com o nome do jogo, a imagem com uma id chamada "imagem" e a função onclick (Evento de clique) com o nome trocar(), por fim, um parágrafo com a descrição do jogo. No final do body chamei o javascript.
 No css personalizei a página centralizando os itens, mudando a cor de fundo, as fontes e as cores da fonte. Além de uma borda na imagem e efeito hover(aumenta um pouco o tamanho do width e height da imagem ao passar o mouse em cima).
 No javascript fiz um código simples chamando a função trocar().
 Dentro dessa função criei um let com o comando document.getElementById("imagem") para pegar a imagem.
